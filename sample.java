@@ -1,5 +1,5 @@
 import java.util.Scanner; /** * Simple Java Program to draw a pyramid pattern. We have used both * System.out.println() and System.out.print() methods to draw stars(*) * in pyramid shape. * * @author WINDOWS 8 * */ 
-public class PrintPyramidTest { 
+public class sample { 
     public static void main(String args[]) { 
         System.out.println("Pyramid pattern of star in Java : "); 
         drawPyramidPattern(); 
