@@ -8,8 +8,8 @@ public class sample {
     }
  /** * This method draws a pyramid pattern using asterisk character. You can * replace the asterisk with any other character to draw a pyramid of that. */ 
     public static void drawPyramidPattern() { 
-        for (int i = 0; i < 6; i++){ 
-            for (int j = 0; j < 6 - i; j++) { 
+        for (int i = 0; i < 7; i++){ 
+            for (int j = 0; j < 7 - i; j++) { 
                 System.out.print(" ");
             }
             for (int k = 0; k <= i; k++) { 
